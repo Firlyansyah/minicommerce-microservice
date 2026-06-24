@@ -93,7 +93,7 @@ Swagger UI:
 
 ---
 
-## 🗄️ Database
+## Database
 
 - MySQL (Dockerized)
 - Databases:
