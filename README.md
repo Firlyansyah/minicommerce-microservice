@@ -71,7 +71,7 @@ docker compose up --build
 
 ---
 
-## 🌐 Service Endpoints
+## Service Endpoints
 
 | Service         | URL                   |
 | --------------- | --------------------- |
@@ -81,7 +81,7 @@ docker compose up --build
 
 ---
 
-## 📘 API Documentation
+## API Documentation
 
 Swagger UI:
 
@@ -93,7 +93,7 @@ Swagger UI:
 
 ---
 
-## 🗄️ Database
+## Database
 
 - MySQL (Dockerized)
 - Databases:
@@ -104,7 +104,7 @@ Database initialization is handled automatically via Docker.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 minicommerce/
