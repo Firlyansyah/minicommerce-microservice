@@ -49,7 +49,7 @@ Each service has its own database to ensure loose coupling and scalability.
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/Firlyansyah/minicommerce-microservices.git
+git clone https://github.com/Firlyansyah/minicommerce-microservice.git
 cd minicommerce-microservice
 ```
 
