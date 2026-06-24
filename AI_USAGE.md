@@ -15,7 +15,7 @@
 - Membantu memahami cara penggunaan JPA Repository dan JPA specification.
 - Membantu memahami cara pembuatan API Gateway.
 - Membantu memahami cara setup Swagger.
-- Membantu membuat file README.md untuk dokumetnasi aplikasi.
+- Membantu membuat file README.md untuk dokumentasi aplikasi.
 
 ## Prompt Penting yang Digunakan
 
