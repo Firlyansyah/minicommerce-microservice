@@ -1,0 +1,9 @@
+target/
+*.jar
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.env
+mysql-data/
