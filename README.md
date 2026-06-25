@@ -49,21 +49,13 @@ Each service has its own database to ensure loose coupling and scalability.
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/Firlyansyah/minicommerce-microservices.git
-cd minicommerce
+git clone https://github.com/Firlyansyah/minicommerce-microservice.git
+cd minicommerce-microservice
 ```
 
 ---
 
-### 2. Build services
-
-```bash
-mvn clean package -DskipTests
-```
-
----
-
-### 3. Run with Docker Compose
+### 2. Run with Docker Compose
 
 ```bash
 docker compose up --build
